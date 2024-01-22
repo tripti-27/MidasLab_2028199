@@ -1,4 +1,4 @@
-# React-Native Maestro Application Setup
+# React-Native Maestro Application(MIDAS Lab)
 
 ## Introduction
 
